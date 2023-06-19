@@ -1,3 +1,4 @@
+pip==23.1.2
 Flask==2.2.4
-python-dotenv==1.0.0
+python-dotenv==0.21.1
 web3==6.5.0
